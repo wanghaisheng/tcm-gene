@@ -1,0 +1,160 @@
+**电商产品落地页 Prompt 模板 (ClickBank 最佳实践融入版 - 颜色方案自主优化版 - 响应式设计优化版 - PRD 不完善友好型 - 自主研究补充版) - **Enhanced Version with Pre-computed Design Practice Summary & Direct Implementation** **
+
+**目标：**  即使 **提供的 `prd.md` 产品需求文档不完善 (可能信息量较少或存在缺失)，且 PRD 中可能定义了颜色方案**，AI 也将 **主动进行研究并补充必要信息，并在必要时自主优化或替换 PRD 中定义的颜色方案**，设计一个 **极致高转化率** 的 **响应式电商产品落地页** 原型，**最大化销售额**،**深度融入 ClickBank 最佳落地页实践**،採用 ClickBank 成功案例策略，**兼容不同屏幕大小**，并输出可用于开发的 HTML 代码和相关文档. **无需生成独立的 PC 和 Mobile 版本，只需一个响应式版本即可.** **This enhanced version is specifically designed based on research indicating that audience understanding, simple engaging design, persuasive copy, trust elements, optimization, **AND EFFECTIVE PRICE PRESENTATION** are key to boosting landing page conversions, and is now DIRECTLY GUIDED by the following pre-computed summary of top performing ClickBank landing page design practices.**
+
+**核心理念：**  **AI 不仅基于 PRD，更将主动进行市场调研、用户分析、竞品分析，并深度学习 ClickBank 最佳落地页实践 (as detailed in provided resources) **AND NOW SPECIFICALLY IMPLEMENTING THE FOLLOWING PRE-COMPUTED SUMMARY OF KEY DESIGN PRACTICES OBSERVED FROM TOP CLICKBANK LANDING PAGES, INCLUDING PRICE PRESENTATION STRATEGIES**, 弥补 PRD 信息不足，并有权在分析基础上，自主优化或替换 PRD 中定义的颜色方案，以确保落地页设计极致优化，最大化转化率，采用响应式设计，完美适配各种屏幕尺寸，并深度契合 ClickBank 平台特点.**  **在 PRD 信息缺失或设计需要优化时，AI 将以 ClickBank 最佳实践为首要指导原则, **ENRICHED BY AND DIRECTLY IMPLEMENTING THE FOLLOWING PRE-COMPUTED SUMMARY OF SUCCESSFUL LANDING PAGE EXAMPLES, AND SPECIFICALLY EFFECTIVE PRICE PRESENTATION TECHNIQUES**, 结合电商通用最佳实践、颜色心理学、品牌调性、转化率优化、**and insights from audience research and conversion studies**, 做出最有利于提升转化的设计决策. **A streamlined approach focusing on a single solution will be prioritized to maximize lead conversion, as research suggests.**
+
+**Pre-computed Summary of Key Design Practices from Top ClickBank Landing Pages (Direct Implementation Guide for AI):**
+
+*   **Headline Strategies:**
+    *   **Implement Predominantly Problem-Focused & Benefit-Driven Headlines:** Immediately address user pain points and promise clear, desirable solutions. (e.g., for a weight loss product: "Finally Melt Away Stubborn Belly Fat - Without Starving Yourself!").
+    *   **Use Direct & Urgent Language in Headlines:** Employ direct and urgent phrasing to grab immediate attention. (e.g., "Discover the Secret," "Urgent: Limited Time Offer").
+    *   **(Optional) Consider Target Audience Cues in Headlines:** Subtly hint at target demographics for increased relevance where appropriate. (e.g., "Prostate Relief for Men Over 45").
+
+*   **CTA Button Design & Placement:**
+    *   **Use Dominant Red Color for CTAs:**  Utilize red as the primary CTA button color for Nutra offers to convey urgency and action. (Green can be used for "Free Trial" CTAs in non-Nutra offers).
+    *   **Employ Action-Oriented & Urgent Verb Phrases for CTA Text:** Use concise, action-driven phrases with verbs implying immediacy. (e.g., "Rush My Order Now!", "Buy Now & Save Big!", "Claim Your Discount Today!").
+    *   **Strategically Place Multiple CTAs Throughout Long-Form Pages:** Embed frequent CTA buttons within the long-form sales letter, ensuring visibility throughout the user's scroll journey.
+    *   **Design Rectangular Buttons with Rounded Corners & Clear Text:** Create rectangular buttons with rounded corners, using clear, legible, and bolded white or contrasting text on the red background.
+
+*   **Social Proof Techniques:**
+    *   **Feature Multi-Format Customer Testimonials:** Include testimonials in diverse formats: text quotes with headshots, detailed text reviews/stories, and (optionally) video testimonials.
+    *   **Visually Imply or Show Before & After Transformations:** If applicable, visually suggest or explicitly show before & after transformations, especially for health and beauty products.
+    *   **Incorporate Authority & Credibility Indicators:** Utilize badges and phrases emphasizing: scientific/medical authority ("Doctor Formulated"), ingredient quality ("100% Natural"), and guarantees ("Money-Back Guarantee").
+    *   **Include "Verified Purchase" & Specific Results Claims in Testimonials:** Add phrases like "Verified Purchase" and highlight quantifiable results within testimonials to boost authenticity.
+
+*   **Urgency & Scarcity Tactics:**
+    *   **Implement "Limited Time Discount" Offers Prominently:** Feature "Limited Time Discount" banners or sections near the top and throughout the page.
+    *   **Display Prominent Countdown Timers:**  Incorporate highly visible countdown timers, especially near pricing and CTA sections, to emphasize offer time limits.
+    *   **Use "Limited Stock" / "Limited Availability" Messaging:**  Employ textual scarcity cues like "Limited Stock Available," "Limited Bottles Remaining," "Spots Filling Up Fast."
+    *   **Utilize Visual Urgency Cues:** Reinforce urgency visually through red color schemes, timers, and urgent language throughout the design.
+
+*   **Overall Layout & Design Principles:**
+    *   **Adopt Long-Form Sales Letter Format (Especially for Nutra):** Structure the landing page as a long-form sales letter to allow for detailed persuasion and storytelling.
+    *   **Place a Compelling Video Hook Above the Fold:** Position an engaging video prominently at the top of the page as the primary attention-grabbing element.
+    *   **Structure Content for Easy Scrolling & Readability:**  Organize content with clear headings, subheadings, bullet points, and short paragraphs for effortless consumption.
+    *   **Maintain Clean & Minimalist Design Aesthetic:**  Opt for a clean, simple, and minimalist design to prioritize readability and focus user attention on the sales message. Use dark text on light backgrounds.
+    *   **Focus on a Streamlined Single Offer (Eliminate Distractions):** Ensure the landing page is laser-focused on a single product or offer, avoiding external links or unnecessary navigation.
+
+*   **Price Presentation Strategies:**
+    *   **Implement a 3-Tier Pricing Structure (Basic, Standard, Premium):** Offer three distinct pricing tiers (e.g., Basic, Standard/Popular, Premium/Best Value).
+    *   **Tiered Value & "Value Stacking" for Higher Tiers:** Clearly differentiate tiers by offering progressively increasing value, bonuses, longer durations, or enhanced features in higher-priced tiers.
+    *   **Create Significant Price Jumps Between Tiers:** Design noticeable price differences between tiers to make mid-range and premium tiers seem like better value compared to the basic option.
+    *   **Highlight Middle Tier as "Most Popular" / "Best Value" & Discount:** Feature the middle tier as "Most Popular" or "Best Value" and apply a slight, strategic discount to this tier.
+    *   **Visually Emphasize Sale Prices:** Use bolded, larger fonts for sale prices, strikethrough original prices, prominent placement near CTAs, and contrasting colors to highlight discounts.
+    *   **(Optional) Offer Monthly Payment Options for Higher Tiers:** Consider offering monthly payment plans for higher-priced tiers to improve affordability, while primarily promoting single payments.
+
+
+**请提供你的 `prd.md` 文档 (即使不完善，且可能包含颜色方案)，以及尽可能详细的产品信息 (即使 PRD 中缺失，也请在 Prompt 中补充)，AI 将会：**
+
+1.  **分析 `prd.md` 文档：**  尽力从中提取所有可用的产品信息、目标用户描述、品牌风格偏好 **(包括 PRD 中定义的颜色方案)** 等.
+2.  **自主研究补充信息：**  **当 `prd.md` 信息不足时，AI 将主动进行以下研究 (但不限于):**
+    *   **产品市场调研：**  基于产品名称和核心卖点，进行市场调研，了解市场规模、趋势、用户需求、竞争格局等.
+    *   **目标用户深度分析：**  基于 PRD 中已有的目标用户描述 (即使很简略)，进行更深入的用户分析，包括：用户画像细化、用户痛点深度挖掘、用户购买动机分析. **This will include tailoring content to their interests and potentially using location-aware content for enhanced relevance.**
+    *   **竞品落地页分析：**  主动搜索和分析竞争对手的响应式落地页, **NOW DIRECTLY GUIDED BY THE PRE-COMPUTED SUMMARY OF KEY DESIGN PRACTICES, INCLUDING PRICE PRESENTATION**, 深入研究其设计策略和转化技巧.
+    *   **ClickBank 最佳实践 **深度** 学习：**  进行 **更深入、更系统化** 的 ClickBank 最佳实践学习, **NOW DIRECTLY IMPLEMENTING THE ABOVE PRE-COMPUTED DESIGN PRACTICE SUMMARY**, **重点研究以下 ClickBank 成功落地页的关键要素 (based on provided research, ClickBank platform common characteristics, AND THE PRE-COMPUTED DESIGN PRACTICE SUMMARY ABOVE):**
+        *   **强烈的标题和副标题 (Benefit-Driven Headlines):**  **Implement problem-focused and benefit-driven headlines, using direct and urgent language, and considering target audience cues as per the pre-computed summary.**
+        *   **清晰的产品价值主张 (Clear Value Proposition):**  快速、简洁、有力地传递产品能为用户带来的独特价值. **Ensure the value proposition is clear, concise, and powerful, reflecting the benefit-driven approach summarized above.**
+        *   **用户痛点聚焦和解决方案呈现 (Pain Point & Solution Focus):**  深入挖掘用户痛点，并在落地页中反复强调，然后将产品定位为完美的解决方案. **Focus on symptoms before solutions to resonate with users, and ensure pain points and solutions are highlighted effectively as per the summary.**
+        *   **社会认同和客户证言 (Social Proof & Testimonials):**  显著位置展示客户评价、成功案例、权威背书, 建立信任感. **Feature multi-format customer testimonials, before & after transformation elements, and authority/credibility indicators, directly implementing the social proof techniques from the summary.**
+        *   **行动号召优化 (Optimized Call-to-Actions - CTAs):**  设计醒目、突出、行动导向的 CTA 按钮，使用有吸引力的文案，并在关键位置多次放置 CTA 按钮. **Design CTAs with dominant red color, action-oriented and urgent text, and strategic placement throughout the page, directly following the CTA button design guidelines from the summary.**
+        *   **紧迫感和稀缺性策略 (Scarcity & Urgency Tactics):**  巧妙运用限时优惠、限量、倒计时等策略，营造紧迫感，促使用户立即行动. **Implement "Limited Time Discount" offers, prominent countdown timers, "Limited Stock" messaging, and visual urgency cues, directly applying the urgency and scarcity tactics from the summary.**
+        *   **风险消除和退款保证 (Risk Reversal & Money-Back Guarantees):**  提供明确的退款保证或试用承诺，降低用户购买风险，消除疑虑. **Clearly state and emphasize a money-back guarantee to reduce perceived risk.**
+        *   **简洁明了的设计和布局 (Clean & Simple Design & Layout):**  采用简洁、专业、易于导航的设计风格，避免干扰元素，突出核心信息. **Maintain a clean and minimalist design with a long-form sales letter layout, video hook at the top, and structured, easily digestible content, directly implementing the layout and design principles from the summary.**
+        *   **移动端优先和响应式设计 (Mobile-First & Responsive Design):**  极致重视移动端用户体验，确保在移动设备上完美展示和流畅操作.
+        *   **视觉元素优化 (Optimized Visual Elements):**  使用高质量、高相关性的图片和视频，增强视觉吸引力，直观展示产品效果和用户利益.
+        *   **销售文案优化 (Optimized Sales Copy):**  撰写具有销售力、 persuasive 的文案，强调利益、痛点、解决方案、价值、紧迫感，使用强有力的动词和感叹词.
+        *   **价格和价值呈现 (Price & Value Presentation):**  清晰展示价格和优惠信息，并突出产品的价值感，例如：对比原价和优惠价，赠送额外价值. **Implement a 3-tier pricing structure, tiered value proposition, significant price jumps, "Most Popular" tier highlighting, and visually emphasize sale prices, directly applying the price presentation strategies from the summary.**
+        *   **Focus on One Solution:** Streamline approach focusing on a single offer to maximize lead conversion. **Avoid distractions like links to other pages or irrelevant content.**
+    *   **颜色心理学研究：**  研究颜色心理学，了解不同颜色对用户情绪、行为和转化率的影响. **Complementary color palettes, checked against trends, will be used, avoiding jarring choices.**
+    *   **品牌调性分析：**  分析产品品牌调性，确保颜色方案与品牌形象相符.
+    *   **响应式设计最佳实践应用：**  学习和应用响应式网页设计的通用最佳实践.
+    *   **电商通用最佳实践应用：**  学习和应用电商落地页设计的通用最佳实践.
+
+**2、落地页结构规划 (AIDA / PAS 框架 + ClickBank 最佳实践模块化 + AI 自主决策 + 响应式布局 + Streamlined Approach):**
+
+*   **AIDA 原则应用 (Attention, Interest, Desire, Action):** Structure the page using the AIDA model, as is common practice in high-converting ClickBank landing pages. Start with a strong headline hook **(implementing problem-focused & benefit-driven headlines as per the pre-computed summary)**, expand on pain points to build interest, highlight benefits with bullet points to create desire, and end with clear CTAs to drive action **(using action-oriented and urgent text for CTAs as per the pre-computed summary)**.
+*   **AIDA 或 PAS 模型 (通用模型应用 + AI 自主决策 + ClickBank 模型契合):**  AI 需要评估 AIDA 或 PAS 模型是否最契合 ClickBank 平台用户的心理路径和购买决策流程，如果 ClickBank 平台更倾向于某种模型，AI 需优先选择该模型，并说明理由. **However, AIDA is generally recommended for ClickBank style landing pages focusing on direct sales, aligning with the pre-computed summary.**
+*   **关键页面模块定义 (ClickBank 最佳实践模块化 + 通用电商模块 + AI 自主决策 + 响应式模块化 + ClickBank 成功模块借鉴 + Focus on One Solution):**  AI 需要深度借鉴 ClickBank 平台上成功落地页的模块组合和排列方式, **and directly implement modules commonly found in high-converting ClickBank landing pages, as reflected in the pre-computed summary**, 例如：震撼首屏 (Video Hook as per summary), 痛点放大区, 解决方案展示区, 社会认同区 (Testimonials as per summary), 紧迫感营造区 (Countdown Timers & Scarcity as per summary), 风险消除区, 价格与购买区 (3-Tier Pricing as per summary) 等，并灵活组合这些模块，构建最有利于转化的落地页结构. **Prioritize a streamlined approach focusing on a single offer, avoiding multiple offers or distractions, as emphasized in the pre-computed summary.** AI 需要在 `landing-page-brief.md` 文档中，详细说明其模块选择和排列的依据，以及如何借鉴 ClickBank 成功案例 and implement a streamlined approach and ClickBank best practice modules.
+*   **文案撰写 (销售型文案 + ClickBank 极致转化文案风格 + AI 自主创意 + ClickBank 文案范例参考):**  AI 需要学习 ClickBank 平台上高转化落地页的文案风格, **and adopt a sales copy style consistent with high-converting ClickBank landing pages, as observed and summarized previously**. 力求文案简洁、直接、有力、Benefit-Driven **(Benefit-Driven Headlines and Copy as per summary)**，极致突出用户利益、痛点、解决方案、价值、紧迫感.  AI 可以参考 ClickBank 成功案例的文案范例，并在此基础上进行自主创意和优化.  AI 需要在 `landing-page-brief.md` 文档中，详细说明其文案策略和创意来源，以及如何借鉴 ClickBank 文案风格 and implement benefit-driven and concise sales copy. **Ensure persuasive copy that pre-sells your solution, briefly covering what, where, when, why, and how.  Focus on problem/solution messaging as highlighted in the summary.** **Proofread copy with Grammarly.com.**
+
+**3、高转化 UI 设计 (视觉营销 + 通用电商风格 + AI 自主设计决策 + 响应式 UI 元素 + 颜色方案自主优化 + ClickBank 视觉风格研究 + Trust & Engagement Elements + Price Design Implementation):**
+
+*   **视觉冲击力设计 (通用电商风格 + 视觉引导 + AI 自主设计 + 响应式视觉 + 颜色方案优化 + ClickBank 视觉风格借鉴 + Simple & Engaging Design):**  AI 需要研究 ClickBank 平台上高转化落地页的视觉风格特点, **and directly implement visual style elements observed in successful ClickBank landing pages, as summarized previously**, 例如：配色方案, 字体选择, 图片风格, 排版布局等，并在设计中借鉴其成功经验.  AI 需要确保最终的视觉风格既具有视觉冲击力，又符合 ClickBank 平台用户的审美偏好和信任感需求. **Design will be kept clean and mobile-friendly, with easy-to-read dark text on a white background, appealing images, and complementary color palettes, adhering to the clean and simple design principles from the pre-computed summary.** AI 需要在 `landing-page-brief.md` 文档中，详细说明其视觉风格设计策略，以及如何借鉴 ClickBank 视觉风格 and ensure a simple and engaging design and implement visually impactful elements.
+*   **颜色方案选择和 justification:**  AI 需要在 `landing-page-brief.md` 文档中，详细描述其颜色方案选择过程, including checking complementary palettes against trends at ColourLovers.com. **Ensure color scheme aligns with ClickBank visual style and is optimized for conversion, as per ClickBank best practices.**
+    *   **PRD 颜色方案分析 (如果存在):**  分析 PRD 中定义的颜色方案，评估其优缺点.
+    *   **自主研究和分析:**  描述 AI 如何进行颜色心理学研究、品牌调性分析、竞品颜色方案分析、ClickBank 最佳实践学习等，以及研究结果.
+    *   **最终颜色方案决策:**  说明最终选择的颜色方案 (如果与 PRD 不同，需要明确指出).
+    *   **颜色方案 justification:**  详细解释最终颜色方案的选择理由和优势，特别是当替换了 PRD 原有颜色方案时，必须充分论证替换的必要性和积极影响.  理由可以包括：更符合目标用户偏好、更突出产品特点、更能提升转化率、更符合品牌调性、更具视觉冲击力等. **Justify color scheme choices based on color psychology and alignment with ClickBank visual trends.**
+*   **突出利益的视觉元素 (通用素材 + 效果展示 + AI 素材选择 + 响应式图片优化 + ClickBank 素材风格参考 + Video Integration):**  AI 需要参考 ClickBank 平台上高转化落地页的素材选择特点, **and implement visual elements that are common and effective in high-converting ClickBank landing pages, as summarized previously**, 例如：图片类型, 图片风格, 视频运用等，并在素材选择中借鉴其成功经验，选择更符合 ClickBank 用户审美和转化需求的素材. **Incorporate videos with sound for enhanced engagement, placing a prominent video hook at the top as per the summary. Use high-quality, relevant images and videos that visually demonstrate product benefits and transformations, aligning with ClickBank visual best practices.** Treat video sales letter scripts like a story with hooks, features, benefits, and energy. AI 需要在 `landing-page-brief.md` 文档中，详细说明其素材选择策略，以及如何借鉴 ClickBank 素材风格 and implement video integration and benefit-driven visuals.
+*   **响应式布局和排版:**  AI 需要采用响应式布局技术 (例如：Flexbox, Grid) 和响应式排版技巧 (例如：弹性字体、断点调整), 确保页面在不同屏幕尺寸下都能呈现最佳的布局和排版效果.  AI 需要在 `landing-page-brief.md` 文档中，简述其响应式布局和排版策略. **Ensure mobile-friendliness and fast loading speed, optimizing for mobile-first design.  Layout should be clean, simple, and optimized for readability and scrolling, as per the pre-computed summary.**
+*   **信任感设计 (通用信任元素 + AI 信任策略 + ClickBank 信任要素强化 + Social Proof & Testimonials & Trust Signals):**  AI 需要特别强化 ClickBank 平台用户更看重的信任要素, **and directly implement social proof techniques prevalent in high-converting ClickBank landing pages, as summarized previously**, 例如：客户评价, 成功案例, 退款保证, 权威认证等，并在落地页中显著位置展示这些信任要素，最大化建立用户信任感. **Display multi-format customer testimonials, before/after transformation elements, and authority/credibility indicators prominently, directly applying social proof strategies from the summary.** Include official badges (e.g., credit card security badges) and media-related brand endorsements (e.g., features in Forbes or Huffington Post). AI 需要在 `landing-page-brief.md` 文档中，详细说明其信任建立策略，以及如何强化 ClickBank 平台用户更看重的信任要素 and implement social proof and trust signals like badges and media endorsements.
+*   **CTA 按钮设计 (通用 CTA 文案 + 醒目突出 + AI 文案优化 + 颜色搭配协调 + ClickBank CTA 按钮风格借鉴 + Optimized CTAs):**  AI 需要研究 ClickBank 平台上高转化落地页的 CTA 按钮设计特点, **and directly implement CTA button design principles observed in successful ClickBank landing pages, as summarized previously**, 例如：按钮颜色 (Dominant Red as per summary), 按钮形状, 按钮文案 (Action-Oriented & Urgent text as per summary), 按钮位置 (Multiple CTAs throughout page as per summary) 等，并在 CTA 按钮设计中借鉴其成功经验，设计更符合 ClickBank 用户点击习惯和转化需求的 CTA 按钮. **Design call-to-action buttons creatively, blending them into the content. Ensure CTAs are actionable and specific, like "Download Your Free Guide" rather than generic "Submit".  Use dominant red color for CTAs and action-oriented urgent text, placing multiple CTAs strategically, following the CTA button design guidelines from the summary.** AI 需要在 `landing-page-brief.md` 文档中，详细说明其 CTA 按钮设计策略，以及如何借鉴 ClickBank CTA 按钮风格 and optimize CTAs for maximum clicks.
+*   **Price Section Design & Implementation (3-Tier Pricing, Value Stacking, Visual Emphasis):** **Directly implement the price presentation strategies summarized previously.**  Offer a 3-tier pricing structure (Basic, Standard, Premium). Tiered Value & "Value Stacking" for Higher Tiers. Create Significant Price Jumps Between Tiers. Highlight Middle Tier as "Most Popular" / "Best Value" & Discount. Visually Emphasize Sale Prices (large fonts, strikethrough, contrasting colors). **Document the price section design in detail in `landing-page-brief.md`, justifying the chosen tier structure, pricing points, and visual presentation based on ClickBank best practices and the pre-computed summary.**
+*   **Exit Pop-ups (Optional):** Consider exit pop-ups for conversion optimization, offering last-minute incentives like newsletter sign-ups. **Use sparingly to avoid annoyance.**
+
+**4、HTML 原型实现 (性能优化 + 响应式实现 + 颜色方案应用 + ClickBank 技术标准对齐 + Compliance):**
+
+*   **HTML 代码和技术实现需要尽可能与 ClickBank 平台的技术标准对齐，例如：兼容性、加载速度、安全性等.**  AI 需要在 `landing-page-brief.md` 文档中，简述其技术实现策略，以及如何与 ClickBank 技术标准对齐. **Ensure page loads quickly and is optimized for speed and ClickBank technical standards, as page speed influences conversions on ClickBank.**
+*   **轻量级 HTML 框架 (Tailwind CSS 优先):**  使用 Tailwind CSS 或 Bootstrap 等响应式 CSS 框架，快速实现响应式布局和颜色方案应用.
+*   **Media Queries 应用:**  使用 Media Queries 精细化控制不同屏幕尺寸下的样式、布局和颜色方案.
+*   **CSS Variables (Custom Properties)：**  可以使用 CSS Variables (自定义属性) 来管理和调整颜色方案，方便响应式调整和主题切换.
+*   **弹性布局 (Flexbox/Grid):**  采用 Flexbox 或 CSS Grid 等现代布局技术，构建灵活的响应式布局.
+*   **响应式图片 ( `<picture>` / `srcset` )：**  使用 `<picture>` 元素或 `<img>` 标签的 `srcset` 属性，提供不同尺寸的图片资源，优化响应式图片加载.
+*   **性能优化 (WebP, 懒加载):**  所有图片必须经过压缩优化，使用 WebP 格式，懒加载技术.
+*   **精简代码 (优化性能):**  HTML 和 CSS 代码要精简，避免冗余代码.
+*   **CDN 加速 (提升速度):**  静态资源使用 CDN 加速.
+*   **移动端优先优化 (提升体验):**  针对移动端进行性能优化，并优先考虑移动端用户体验. **Prioritize mobile-first optimization to align with ClickBank mobile traffic.**
+*   **Affiliate Disclaimer (Compliance):** Include an affiliate disclaimer as required by the FTC, e.g., "This page contains affiliate links..." **Compliance is non-negotiable for ClickBank products.**
+
+**5、落地页主入口 (index.html - 展示和入口):**
+
+*   **响应式落地页展示:**  `index.html` 中 **展示单个响应式落地页原型**，并 **模拟不同屏幕尺寸 (例如：手机、平板、电脑) 的显示效果**，可以使用 CSS 模拟不同设备尺寸的容器，并将响应式落地页嵌入到这些容器中，展示其在不同尺寸下的适配效果.
+*   **"Open Full Responsive Demo" 入口:**  增加 **"Open Full Responsive Demo" 按钮/链接**，点击后在新窗口打开完整的响应式落地页原型，用户可以自由调整浏览器窗口大小，查看响应式效果.
+
+**6、生成 landing-page-brief.md 文档 (极致详细版 - 突出 AI 自主研究、响应式设计、颜色方案决策和 ClickBank 最佳实践应用 - **Enhanced Detail & Justification**):**
+
+*   **极致详细版需求文档:**  生成 `landing-page-brief.md` 文档，**需要提供前所未有的详细程度，不仅要记录落地页的所有设计决策，更要极致详细地记录 AI 在 PRD 信息不足时，如何进行自主研究、分析和决策，如何实现响应式设计，如何进行颜色方案选择和优化 (包括是否替换 PRD 原有颜色方案)，以及 **最重要的是，如何深度融入和应用 ClickBank 最佳落地页实践, and how research on audience and conversion optimization, **AND SPECIFICALLY THE PRE-COMPUTED SUMMARY OF LANDING PAGE DESIGN PRACTICES**, informed the design**.**  文档需要包含:
+    *   **PRD 信息分析概要:**  简述从 `prd.md` 中提取的关键信息和信息缺失情况， **特别指出 PRD 中是否定义了颜色方案.**
+    *   **AI 自主研究报告:**  详细描述 AI 进行的市场调研、用户分析 **(including personalization strategies, location-aware content considerations)**、竞品分析 **(特别是 ClickBank 平台竞品分析)** 等研究过程和结果. **Detail how audience research and conversion studies were incorporated.**
+    *   **ClickBank 最佳实践学习报告:**  **极其详细地描述 AI 如何学习和理解 ClickBank 最佳落地页实践，包括学习资源、学习方法、学习成果, **AND HOW THE PRE-COMPUTED SUMMARY OF DESIGN PRACTICES WAS USED AS A DIRECT IMPLEMENTATION GUIDE**. 总结的 ClickBank 成功落地页关键要素 (需与 Prompt 中列出的要素一致).  **Provide specific examples of ClickBank landing pages that were analyzed (if applicable beyond the provided URLs) and how their best practices, **AND SPECIFICALLY ELEMENTS FROM THE PRE-COMPUTED SUMMARY**, were adopted.**
+    *   **设计决策依据:**  针对每个关键设计决策 (例如：模型选择、模块选择、文案策略、视觉风格、信任策略、响应式策略、颜色方案选择、**ClickBank 最佳实践应用, Audience Personalization, Streamlined Approach, Compliance, PRICE SECTION DESIGN**) ， **极其详细地** 说明 AI 的决策理由和依据. **务必清晰地指出每个设计决策是如何基于 ClickBank 最佳实践的，并引用具体的 ClickBank 最佳实践原则或案例作为支撑. Explicitly state how audience understanding, simple design, persuasive copy, trust elements, optimization, **AND PRICE PRESENTATION BEST PRACTICES FROM THE SUMMARY** informed each design decision. **Specifically detail how the pre-computed summary was directly implemented in each design aspect.**
+    *   **文案创意来源和 ClickBank 文案风格借鉴:**  详细描述文案策略和创意来源， **并详细说明如何借鉴 ClickBank 文案风格，提供具体的文案范例和分析. Explain how persuasive copy principles, benefit-driven language, and short sentence structure were implemented, referencing the pre-computed summary guidelines for copy.**
+    *   **素材选择考虑因素和 ClickBank 素材风格参考:**  详细描述图片、视频素材选择的考虑因素， **并详细说明如何借鉴 ClickBank 素材风格，提供具体的素材案例和分析.  Detail the video integration strategy, and how visual elements were chosen to maximize benefit communication, as per the summary recommendations.**
+    *   **响应式设计策略详解:**  详细描述 AI 采用的响应式设计策略和技术， **包括响应式颜色方案的实现方法. Detail mobile-first design considerations and speed optimization techniques for ClickBank standards.**
+    *   **颜色方案决策详解:**  详细描述 AI 的颜色方案选择过程，包括：PRD 颜色方案分析 (如果存在)、自主研究和分析过程、最终颜色方案决策、颜色方案 justification (重点解释替换 PRD 颜色方案的理由，如果发生替换). **Justify the color scheme choice based on color psychology, brand tonality, and ClickBank best practices, referencing the color palette analysis from the pre-computed summary if applicable.**
+    *   **信任建立策略详解和 ClickBank 信任要素强化:**  详细描述信任建立策略， **并详细说明如何强化 ClickBank 平台用户更看重的信任要素，提供具体的信任要素展示方案和案例. Explain how social proof and trust signals are implemented, directly referencing the social proof techniques from the pre-computed summary.**
+    *   **CTA 按钮设计详解和 ClickBank CTA 按钮风格借鉴:**  详细描述 CTA 按钮设计策略， **并详细说明如何借鉴 ClickBank CTA 按钮风格，提供具体的 CTA 按钮设计方案和案例. Explain how CTAs are optimized for maximum clicks and blended creatively into the content, directly referencing the CTA button design guidelines from the pre-computed summary.**
+    *   **Price Section Design & Implementation Details:** **Provide a dedicated section detailing the price section design and implementation, explicitly stating how the 3-tier pricing, value stacking, visual emphasis, and "Most Popular" tier highlighting were implemented based on the pre-computed summary's price presentation strategies. Include visual examples or mockups of the price section.**
+    *   **技术实现策略详解和 ClickBank 技术标准对齐说明:**  详细描述技术实现策略， **并详细说明如何与 ClickBank 平台技术标准对齐，提供具体的技术方案和标准参考. Explain how ClickBank technical standards are met and page loading speed is optimized for ClickBank platform requirements.**
+    *   **性能优化策略:**  简述采用的性能优化策略.
+    *   **Compliance Strategy:** Detail how affiliate disclaimer and FTC compliance are ensured for ClickBank products.
+
+**ClickBank 风格优化 Checklist (AI 自主研究、决策、响应式设计、颜色方案优化和 ClickBank 最佳实践应用验证) - **Enhanced Checklist & Direct Summary Implementation Verification** **:
+
+*   ✅ **高转化率导向 (AI 极致目标):**  设计目标是 **极致提升转化率**，所有设计决策都必须服务于这个目标， **并以 ClickBank 最佳实践为最高指导原则 and the pre-computed design practice summary as a direct implementation guide.**
+*   ✅ **深度融入 ClickBank 最佳实践 & Pre-computed Summary Implementation:**  落地页设计必须深度融入 ClickBank 最佳落地页实践 **AND DIRECTLY IMPLEMENT THE PRE-COMPUTED DESIGN PRACTICE SUMMARY**, 并体现在各个方面 (用户分析、结构规划、文案、UI 设计、技术实现等).  `landing-page-brief.md` 文档需要 **极致详细地** 论证 ClickBank 最佳实践的应用情况 **AND DEMONSTRATE DIRECT IMPLEMENTATION OF EACH POINT IN THE PRE-COMPUTED SUMMARY.**
+*   ✅ **Audience Personalization:** Landing page is tailored to the target audience's interests, potentially with location-aware content.
+*   ✅ **Streamlined Approach:** Landing page focuses on a single offer to maximize conversion.
+*   ✅ **AIDA Principle Applied:** Landing page structure is based on the AIDA model for effective user journey.
+*   ✅ **痛点营销 (AI 自主挖掘 + ClickBank 痛点策略 + Summary Implementation):**  AI 主动挖掘用户痛点，并在落地页中进行 **极致** 痛点营销， **借鉴 ClickBank 成功案例的痛点策略 AND DIRECTLY IMPLEMENTING PROBLEM-FOCUSED HEADLINES AND PAIN POINT EMPHASIS FROM THE PRE-COMPUTED SUMMARY.** **Focus on symptoms before solutions in pain point messaging as per summary.**
+*   ✅ **利益驱动 (AI 自主提炼 + ClickBank 利益呈现 + Summary Implementation):**  AI 主动提炼产品核心卖点和用户利益，并在落地页中 **极致突出** 用户利益， **借鉴 ClickBank 成功案例的利益呈现方式 AND DIRECTLY IMPLEMENTING BENEFIT-DRIVEN HEADLINES AND COPY AS PER THE PRE-COMPUTED SUMMARY.** **Benefit-driven headlines and copy are used throughout the landing page as per summary.**
+*   ✅ **销售型文案 (AI 自主创作 + ClickBank 极致转化文案风格 + Summary Implementation):**  AI 自主创作销售型文案，力求 **极致简洁有力，Benefit-Driven**，并 **深度契合 ClickBank 极致转化文案风格 AND DIRECTLY IMPLEMENTING PERSUASIVE COPY GUIDELINES FROM THE PRE-COMPUTED SUMMARY.** **Persuasive copy pre-sells the solution, covering what, where, when, why, and how. Short sentences are used for better readability, following summary recommendations.**
+*   ✅ **视觉冲击力 (AI 自主设计 + 颜色方案优化 + ClickBank 视觉风格借鉴 + Simple & Engaging Design + Summary Implementation):**  AI 自主设计具有视觉冲击力的界面风格， **并极致优化颜色方案以增强视觉冲击力，借鉴 ClickBank 成功案例的视觉风格 AND DIRECTLY IMPLEMENTING CLEAN & SIMPLE DESIGN PRINCIPLES FROM THE PRE-COMPUTED SUMMARY.** **Design is clean, mobile-friendly, with easy-to-read dark text on white background, appealing images, and complementary color palettes, adhering to the summary guidelines for visual style.**
+*   ✅ **信任建立 (AI 自主策略 + ClickBank 信任要素极致强化 + Social Proof & Testimonials & Trust Signals + Summary Implementation):**  AI 自主设计信任建立策略， **并极致强化 ClickBank 平台用户更看重的信任要素. Social proof elements like multi-format customer testimonials, before/after transformation elements, and authority/credibility indicators are prominently featured, DIRECTLY IMPLEMENTING SOCIAL PROOF TECHNIQUES FROM THE PRE-COMPUTED SUMMARY.**
+*   ✅ **紧迫感营造 (AI 自主策略 + ClickBank 紧迫感策略 + Summary Implementation):**  AI 自主设计紧迫感营造策略， **借鉴 ClickBank 成功案例的紧迫感策略 AND DIRECTLY IMPLEMENTING URGENCY & SCARCITY TACTICS FROM THE PRE-COMPUTED SUMMARY (LIMITED TIME DISCOUNTS, COUNTDOWN TIMERS, LIMITED STOCK MESSAGING).**
+*   ✅ **响应式设计 (通用标准 + ClickBank 移动优先):**  生成响应式落地页，适配不同屏幕尺寸， **极致重视移动端用户体验，与 ClickBank 移动优先策略对齐.** **Mobile-first design approach is prioritized for optimal ClickBank performance.**
+*   ✅ **性能优化 (通用标准 + ClickBank 技术标准对齐):**  页面性能 **极致优化**，与 ClickBank 平台技术标准对齐. **Page loading speed is optimized for maximum conversion and ClickBank technical requirements.**
+*   ✅ **AI 自主研究和决策透明度:**  `landing-page-brief.md` 文档 **极致详细地** 记录 AI 的自主研究过程、设计决策和依据 **(包括颜色方案决策和 ClickBank 最佳实践应用, AND DIRECT IMPLEMENTATION OF THE PRE-COMPUTED SUMMARY)**. **Document details how audience research and conversion studies, AND THE PRE-COMPUTED DESIGN SUMMARY, informed design decisions.**
+*   ✅ **响应式设计策略透明度:**  `landing-page-brief.md` 文档 **极致详细地** 记录 AI 采用的响应式设计策略和技术 **(包括响应式颜色方案实现)**.
+*   ✅ **颜色方案优化 justification:**  **如果 AI 替换了 PRD 颜色方案，`landing-page-brief.md` 文档必须提供极致充分的理由和优势说明. Color scheme choice is justified based on color psychology, brand tonality, and ClickBank best practices, referencing the pre-computed summary if applicable.**
+*   ✅ **ClickBank 最佳实践应用 & Summary Implementation Justification:**  **`landing-page-brief.md` 文档必须详细论证落地页设计是如何深度融入和应用 ClickBank 最佳落地页实践 AND THE PRE-COMPUTED DESIGN SUMMARY, 并提供具体的案例和分析. Document provides specific examples of ClickBank landing pages analyzed (if applicable) and **EXPLICITLY DEMONSTRATES HOW EACH POINT OF THE PRE-COMPUTED DESIGN SUMMARY WAS DIRECTLY IMPLEMENTED IN THE GENERATED LANDING PAGE PROTOTYPE.**
+*   ✅ **Price Section Design Implementation & Justification:** **`landing-page-brief.md` document includes a dedicated section detailing the price section design and implementation, explicitly stating how the 3-tier pricing, value stacking, visual emphasis, and "Most Popular" tier highlighting were implemented based on the pre-computed summary's price presentation strategies. Provides visual examples or mockups of the price section.**
+*   ✅ **Compliance with FTC Regulations:** Affiliate disclaimer is included for ClickBank products to comply with FTC regulations.
+
+**请提供你的 `prd.md` 文档 (即使不完善，且可能包含颜色方案)，以及尽可能详细的产品信息 (即使 PRD 中缺失，也请在 Prompt 中补充)，AI 将会基于这些信息，进行极致深入的自主研究和设计，为你 \[你的电商产品名称] 设计 **极致高转化率的响应式电商产品落地页** 原型 (ClickBank 最佳实践融入版 - 颜色方案自主优化版 - 响应式设计优化版 - PRD 不完善友好型 - 自主研究补充版) - **Enhanced Version with Pre-computed Design Practice Summary & Direct Implementation**.**
+
+**使用说明:**
+
+1.  **务必极其详细地提供你的 `prd.md` 文档和产品信息，即使 PRD 不完善，且可能包含颜色方案.**  信息越详细、越精准，AI 的研究和设计就越有方向性，越能生成极致高转化的落地页原型.
+2.  将此 Prompt 和你的 `prd.md` 文档 (以及补充的产品信息) 一起输入给 AI 模型. **请极其明确地告知 AI 模型，你需要其深度学习 ClickBank 最佳实践 (as detailed in provided resources), 主动进行极致深入的研究和补充信息，生成极致高转化率的响应式落地页，并在颜色方案选择上
